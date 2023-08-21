@@ -1,0 +1,60 @@
+@media screen and (max-width : 600px){
+    body{
+        background-color: #E94B3CFF !important;
+    }    
+}
+body{
+    background-color: #E94B3CFF;
+    background-color: #F2AA4CFF;
+}
+.tit{
+    font-size: 2em;
+    font-weight: bolder;
+}
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.poster img {
+    height: 500px;
+}
+
+.btns {
+    width: 50px;
+    height: 100px;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: black;
+}
+
+.picu img {
+    height: 150px;
+}
+
+.avatar {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+
+.avatar img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.foot{
+    background-color: #212529;
+    color: white;
+    text-align: center;
+    height: 40px;
+}
+.foot h4{
+    font-size: 1.2em ;
+}
+.container-1{
+    width: 60vw;
+    margin: auto;
+}
